@@ -1,0 +1,25 @@
+# Ultimate Enhanced RSI Stock Tracker - Requirements
+
+# Essential financial data
+yfinance>=0.2.18
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Charting and visualization (ESSENTIAL for charts)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Interactive charts (optional but recommended)
+plotly>=5.0.0
+
+# Scientific computing
+scipy>=1.8.0
+
+# Data handling
+requests>=2.25.0
+beautifulsoup4>=4.10.0
+
+# For creating Mac app executable
+pyinstaller>=5.0.0
+
+# GUI - tkinter is included with Python
